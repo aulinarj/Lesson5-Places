@@ -79,7 +79,9 @@ public class PlaceListAdapter extends RecyclerView.Adapter<PlaceListAdapter.Plac
      */
     @Override
     public int getItemCount() {
-        return 0;
+
+        if (mPlaces == null) return 0;
+        return mPlaces.getCount();
     }
 
     public void swapPlaces(PlaceBuffer newPlaces) {

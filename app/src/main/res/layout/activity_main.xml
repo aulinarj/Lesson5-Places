@@ -148,4 +148,6 @@
             android:text="@string/privacy"
             android:textAlignment="center" />
     </LinearLayout>
+
+
 </RelativeLayout>
