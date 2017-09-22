@@ -6,7 +6,7 @@ Google Places API demo app
 ![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
 ![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) ![Screenshot6](screenshots/screen_6.png)
 
-Nama : Aulina Roudlotul Jannah
-Kelas : XII RPL 5
-No Absen : 06
+Nama : Aulina Roudlotul Jannah <br />
+Kelas : XII RPL 5 <br />
+No Absen : 06 <br />
 SMK TELKOM MALANG
